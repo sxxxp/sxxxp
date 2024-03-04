@@ -10,11 +10,11 @@ Hi There!
 
 <h2>
 Contract: <br />
-</h2>
 <h3>
 email: junhyeonsin@gmail.com<br/>   
 discord: sxxxp<br />
 </h3>
+</h2>
 <br /><br />
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shh0325)](https://solved.ac/shh0325)<br /><br />
