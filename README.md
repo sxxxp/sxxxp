@@ -9,7 +9,7 @@ Hi There!
 <h2>I'm junhyeon sin, hope backend developer.</h2>   
 
 <h2>
-Contract: <br />
+Contract:
 <h3>
 email: junhyeonsin@gmail.com<br/>   
 discord: sxxxp<br />
