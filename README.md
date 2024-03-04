@@ -8,13 +8,11 @@ Hi There!
 
 <h2>I'm junhyeon sin, hope backend developer.</h2>   
 
-<h2>
-Contract:
 <h3>
+Contract:<br/><br/>
 email: junhyeonsin@gmail.com<br/>   
 discord: sxxxp<br />
 </h3>
-</h2>
 <br /><br />
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shh0325)](https://solved.ac/shh0325)<br /><br />
